@@ -1,4 +1,4 @@
---
+-- Hello world I did it!
 -- PostgreSQL database dump
 --
 
