@@ -1,4 +1,4 @@
--- Hello world I did it!
+-- Hello world I did it! another test
 -- PostgreSQL database dump
 --
 
